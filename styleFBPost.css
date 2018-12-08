@@ -1,0 +1,252 @@
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #92a8d1;
+	min-width: 1300px;
+}
+#main {
+	margin: auto;
+	background-color: white;
+	width: 40%;
+	margin-top: 5%;
+}
+#main h3 {
+	color: #444444;
+	margin: 0px 15px 10px 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+}
+#menu-dots {
+	float: right;
+	position: relative;
+	margin-top: 10px;
+	margin-right: 15px;
+}
+.header a {
+    text-decoration: none;
+}
+.header h1 {
+  	position: relative;
+  	top: 23px;
+  	left: -5px;
+  	color: #596399  ;
+  	font-weight: bold;
+  	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+.header p {
+  	position: relative;
+  	left: -5px;
+  	top: 12px;
+  	color: #8E8E8E;
+  	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+}
+#reactlogo {
+	float: left;
+	width: 50px;
+	margin: 15px 15px 6px 15px;
+}
+#earthlogo{
+	position: relative;
+  	left: -5px;
+  	top: 12px;
+  	width: 12px;
+  	margin-left: 5px;
+}
+#main-post{
+	margin: 0px 15px 0px 15px;
+	position: relative;
+	border: solid 2px #E8E8E8;
+}
+#main-post h2 {
+	color: #444444;
+	margin: 10px 15px 0px 15px;
+	font-family: 'Merriweather', serif;
+	font-weight: 580;
+	font-size: 21px;
+	position: relative;
+}
+#main-post p {
+	color: #444444;
+	margin: 6px 15px 30px 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	position: relative;
+}
+#main-post h5 {
+	color: #8E8E8E;
+	bottom: 10px;
+	position: absolute;
+	margin: 10px 15px 0px 15px;
+	font-family: 'Open Sans', sans-serif;
+	position: relative;
+}
+#main-post a {
+    text-decoration: none;
+}
+#react-img{
+	height: 62%;
+	width: 100%;
+}
+#infobtn{
+	bottom: 10px;
+	right: 0px;
+	color: #8E8E8E;
+	height: 28px;
+	position: absolute;
+	margin: 0px 15px 0px 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	border: solid 1px #E8E8E8;
+	background-color: #F7FAFC;
+}
+#react-post {
+	position: relative;
+	margin: 0px 15px 0px 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#react-post h4 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	position: relative;
+	color: #8E8E8E;
+	top: -3px;
+}
+#react-icon {
+	margin-left: 50px;
+	width: 20px;
+	position: relative;
+}
+#react-icon-comp {
+	position: relative;
+}
+#comment {
+	width: 100%;
+	background-color: #F1F4F6;
+	margin-bottom: 50px;
+	padding-bottom: 20px;
+	padding-top: 2px;
+	position: relative;
+}
+#comment h2 {
+	color: #596399;
+	margin: 6px 15px 15px 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	position: relative;
+}
+#comment h3{
+	color: #8E8E8E;
+	margin: 0px 15px 0px 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 11px;
+	position: relative;
+}
+.emoji {
+	margin-left: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	position: relative;
+}
+.emoji h4 {
+    color: #596399;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	position: relative;
+	margin-left: 5px;
+	margin-right: 10px;
+	top: -3px;
+}
+#emoji {
+	margin-right: -5px;
+	width: 20px;
+	position: relative;
+}
+#line {
+	width: 95%;
+	border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    position: relative;
+}
+#input {
+	position: relative;
+	border: 2px solid #E8E8E8;
+	border-radius: 25px;
+	background-color: white;
+	border-radius: 25px;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 0px;
+	margin-left: 75px;
+	margin-right: 15px;
+}
+#input h5 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #8E8E8E;
+	display:inline;
+}
+#reactlogo1{
+	float: left;
+	width: 50px;
+	margin: 0px 15px 0px 15px;
+}
+#emoji2 {
+	float: right;
+	margin-right: 15px;
+	display:inline-block;
+}
+#comment-message {
+	position: relative;
+  	
+}
+#comment-message p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #444444;
+	position: relative;
+	padding-left: 15px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 15px;
+	position: relative;
+	background-color: white;
+	margin-left: 75px;
+	margin-right: 15px;
+	border-radius: 25px;
+}
+mark.blue {
+    color:#596399;
+    background: none;
+    font-size: 14px;
+	font-weight: bold;
+	position: relative;
+}
+.react {
+	position: relative;
+	margin-left: 80px;
+	margin-top: 0px;
+}
+.react a {
+    text-decoration: none;
+    color: #596399;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	position: relative;
+}
