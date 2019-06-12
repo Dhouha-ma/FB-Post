@@ -1,4 +1,6 @@
-# FB-Post
-FB Post with only HTML and CSS
+# Facebook-Post
+# Dhouha Mansour
 
-It was a task for a UI developer Position, The purpose was to build an FB post with pure HTML and pure CSS.
+Facebook Post with only HTML and CSS
+
+A UI developer Position test, The purpose was to build an FB post with pure HTML and pure CSS.
